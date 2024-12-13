@@ -14,7 +14,11 @@
   "description": "",
   "dependencies": {
     "concurrently": "^9.1.0",
+    "inquirer": "^8.0.0",
     "nodemon": "^3.1.7",
     "todo-proj": "file:"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^7.3.1"
   }
 }
